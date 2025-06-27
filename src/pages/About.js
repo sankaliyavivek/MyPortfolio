@@ -75,6 +75,7 @@ const About = () => (
           <img
             src={HTML}
             alt=""
+            
           />
           <p>HTML5</p>
         </div>
