@@ -8,7 +8,7 @@ const Contact = () => (
         I LOVE
         {' '}
         <br />
-        COFFEE
+        TEA
         <br />
         {' '}
         CHAT ☕️
@@ -19,30 +19,30 @@ const Contact = () => (
       <div className="interests">
         <p>Frontend Development</p>
         <p>React</p>
-        <p>Next.Js</p>
+        {/* <p>Next.Js</p> */}
         {/* <p>Ruby on Rails</p> */}
         {/* <p>WordPress Development</p> */}
         <p>Startups</p>
         <p>New Opportunities</p>
-        <p>Coffee</p>
+        <p>Tea</p>
         <p>Space</p>
-        <p>Pizza</p>
+        <p>Cricket</p>
       </div>
 
       <hr />
 
       <h3>
         MINDING A PROJECT?
-        <span><a href="mailto:jaykalariya1209@gmail.com">cOnTaCt mE</a></span>
+        <span><a href="mailto:sankaliyavivek9797@gmail.com">cOnTaCt mE</a></span>
       </h3>
 
       <hr />
 
       <div className="social">
-        <span><a href="https://github.com/Jay-Kalariya" target="_blank" rel="noreferrer">GITHUB</a></span>
+        <span><a href=" https://github.com/sankaliyavivek" target="_blank" rel="noreferrer">GITHUB</a></span>
         <span>
           {' '}
-          <a href="https://www.linkedin.com/in/jay-kalariya-76b734229" target="_blank" rel="noreferrer">LINKEDIN</a>
+          <a href=" https://www.linkedin.com/in/vivek-sankaliya-798473253" target="_blank" rel="noreferrer">LINKEDIN</a>
         </span>
         <span>
           {' '}

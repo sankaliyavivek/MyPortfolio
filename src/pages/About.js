@@ -39,10 +39,10 @@ const About = () => (
       <h2 className="title about-title">aBOUT mE</h2>
       <p className="paragraph about-para">
         {/* My journey in the world of programming began in 2018, when I ventured into freelancing. Since then, I have had the opportunity to work on a wide range of projects, honing my skills and expanding my knowledge along the way. I have worked with various clients, both independently and as part of a team, to deliver innovative and user-friendly websites and mobile applications. */}
-        Results-driven college student at LJ University, excelling in adeptly managing multiple projects with precision. Currently engaged in an internship,gaining valuable knowledge and hands-on experience. Collaborative team player with excellent organizational abilities. Quick learner of new technologies, eager to contribute to a dynamic organization, learn from industry experts, and further develop skills.
+      Results-driven college student at Gujarat University, excelling in managing multiple projects with precision. Currently undertaking an internship to gain valuable knowledge and hands-on experience. A collaborative team player with strong organizational skills and a quick learner of new technologies. Eager to contribute to a dynamic organization, learn from industry experts, and continuously develop technical and professional skills.
       </p>
       <button className="hire-me">
-        <a href="https://drive.google.com/file/d/1yTk5U3e2VNP3pMKCDtPNHrITV8yflRrW/view?usp=sharing" target="_blank" rel="noreferrer">
+        <a href="https://drive.google.com/file/d/1T70P39QOuwrSpyx5cYkuEeqHVJbZzHaU/view?usp=drive_link" target="_blank" rel="noreferrer">
           GET MY CV
         </a>
       </button>
@@ -86,13 +86,13 @@ const About = () => (
           />
           <p>CSS3</p>
         </div>
-        <div className="skill">
+        {/* <div className="skill">
           <img
             src={Sql}
             alt=""
           />
           <p>SQL</p>
-        </div>
+        </div> */}
        
         {/* <div className="skill">
           <img
@@ -115,7 +115,7 @@ const About = () => (
           />
           <p>Tailwind</p>
         </div>
-        <div className="skill">
+        {/* <div className="skill">
           <img
             src={NextJS}
             alt=""
@@ -128,7 +128,7 @@ const About = () => (
             alt=""
           />
           <p>Python</p>
-        </div>
+        </div> */}
       </div>
       {/* <h2 className="skill-title">Back-End</h2> */}
       {/* <div className="skills">
@@ -208,16 +208,16 @@ const About = () => (
           <p>npm</p>
         </div>
       </div>
-      <h2 className="skill-title">Design</h2>
+      {/* <h2 className="skill-title">Design</h2> */}
       <div className="skills">
         {/* <div className="skill">
           <img src={Canva} alt="" />
           <p>Canva</p>
         </div> */}
-        <div className="skill">
+        {/* <div className="skill">
           <img src={Figma} alt="" />
           <p>Figma</p>
-        </div>
+        </div> */}
       </div>
       <h2 className="skill-title">Communication</h2>
       <div className="skills">
@@ -240,7 +240,7 @@ const About = () => (
       </div>
       <h2 className="skill-title">Soft Skills</h2>
       <div className="skills">
-        <p className="soft-skill">Remote Pair-Programming</p>
+        {/* <p className="soft-skill">Remote Pair-Programming</p> */}
         <p className="soft-skill">Communication</p>
         <p className="soft-skill">Mentoring</p>
         <p className="soft-skill">Collaboration</p>

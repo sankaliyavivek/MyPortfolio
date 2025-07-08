@@ -43,7 +43,7 @@ const NavBar = () => {
         <div className="tophead">
           <h1>
             <Link className="name-logo" spy smooth offset={50} duration={500} to="home">
-              Jay Kalariya.
+              Vivek Sankaliya.
             </Link>
             {' '}
             <span className="blink" />
