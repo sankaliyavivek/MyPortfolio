@@ -15,6 +15,7 @@ import ProjectCard from '../components/ProjectCard';
 
 import Toys from '../assets/toys.png';
 import Ashin from '../assets/ashin.png';
+import Next from '../assets/next.png';
 import Portfolio from '../assets/portfolio.png';
 import Game from '../assets/game.png';
 const Projects = () => {
@@ -42,10 +43,10 @@ const Projects = () => {
     },
       {
         id: 9,
-        image_url: Ashin,
-        project_name: 'Ashin Fashion',
-        tech_stack: ['Html',"css","JS"],
-        source_link: 'https://sankaliyavivek.github.io/Ashin/'
+        image_url: Next,
+        project_name: 'Next Horizon',
+        tech_stack: ["ReactJS","Bootstrap"],
+        source_link: 'https://sankaliyavivek.github.io/Next/'
       },
       // {
       //   id: 10,
